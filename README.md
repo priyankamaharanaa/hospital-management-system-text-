@@ -1,3 +1,10 @@
+Name: PRIYANKA MAHARANA 
+Company: CODTECH IT SOLUTIONS 
+ID: CT12DS371 
+Domain: JAVA PROGRAMMING 
+Duration: 1ST JUNE 2024 to 30TH JULY 2024 
+Mentor: G.SRAVANI
+
 
 
 # Hospital Management System
