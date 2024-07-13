@@ -31,7 +31,7 @@ The *Hospital Management System* is a comprehensive application designed to stre
 
 1. Clone the repository:
    bash
-   git clone https://github.com/yourusername/hospital-management-system.git
+   git clone https://github.com/priyankamaharanaa/hospital-management-system.git
    
 
 2. Set up the MySQL database and import the provided SQL scripts.
@@ -42,12 +42,3 @@ The *Hospital Management System* is a comprehensive application designed to stre
 
 Once the application is running, you can create and manage patient records, schedule appointments, and access staff information through the user-friendly interface.
 
-## Contribution
-
-Feel free to fork the repository and submit pull requests for improvements or additional features.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
